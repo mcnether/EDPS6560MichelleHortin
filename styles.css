@@ -38,3 +38,24 @@ a:hover {
 a:active {
   color: rebeccapurple;
 } 
+
+/* borders */
+h1 { 
+    border-bottom: 3px solid darkgrey;
+    border-top: 3px solid darkgrey;
+    padding: 10px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 210px;
+    margin-right: 190px;
+}
+
+h2 {
+    border: 2px dotted coral;
+    padding: 10px;
+    margin-left: 400px;
+    margin-right: 380px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
