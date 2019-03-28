@@ -54,28 +54,42 @@ h1 {
 h2 {
     border: 2px dotted coral;
     padding: 10px;
-    margin-left: 400px;
-    margin-right: 380px;
+    margin-left: 370px;
+    margin-right: 370px;
     margin-top: 60px;
     margin-bottom: 60px;
     text-align: center;
 }
 
+/* .=class  #=ID */
+/* images centered */
+
 #jackson {
     display: block;
     margin: 0px auto;
-
+    width:50%;
 }
 
 #idaho {
     display: block;
     margin: 0px auto;
+    width: 50%;
+   
 }
 
 #jackson2 {
     display: block;
     margin: 0px auto;
+    width:50%;
 }
     
+/* Image Captions */
 
-/* .=class  #=ID */
+.caption1 {
+    text-align: center;
+    
+}
+
+.caption2 {
+    text-align: center;
+}
