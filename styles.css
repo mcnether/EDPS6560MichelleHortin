@@ -93,3 +93,32 @@ h2 {
 .caption2 {
     text-align: center;
 }
+/* text centered */
+
+#google {
+    display: block;
+    text-align: center;
+    width: 60px;
+    margin: 0px auto;
+}
+
+#googlelink {
+     display: block;
+    text-align: center;
+    width: 60px;
+    margin: 0px auto;
+}
+
+.jacksonpictext {
+    display: block;
+    text-align: center;
+    width: 400px;
+    margin: 0px auto;
+}
+
+.tetonpictext {
+    display: block;
+    text-align: center;
+    width: 400px;
+    margin: 0px auto;
+}
